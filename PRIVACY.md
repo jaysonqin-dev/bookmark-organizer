@@ -28,4 +28,4 @@ Nothing is moved or deleted until you confirm, and the last run can be undone fr
 
 ## Contact
 
-Questions: open an issue at <https://github.com/qjl0629/bookmark-organizer/issues>.
+Questions: open an issue at <https://github.com/jaysonqin-dev/bookmark-organizer/issues>.
